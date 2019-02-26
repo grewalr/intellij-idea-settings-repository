@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="sparkExecute2" type="Bash" />
+      <mapping ext="" type="Bash" />
+      <mapping ext="template" type="HOCON" />
+      <mapping pattern="NOTICE*" type="Markdown" />
+      <mapping pattern="LICENSE*" type="Markdown" />
+      <mapping pattern="README" type="Markdown" />
+      <mapping pattern="Public-domain" type="PLAIN_TEXT" />
+      <mapping pattern="beta.csv" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="graffle" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
