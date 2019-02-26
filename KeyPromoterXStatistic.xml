@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>155</Count>
+          <Count>158</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
