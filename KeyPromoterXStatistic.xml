@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌥⌘←' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>158</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -62,7 +62,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
