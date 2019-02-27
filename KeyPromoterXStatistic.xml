@@ -809,6 +809,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Performance'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Performance'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PhoneTariffTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1167,6 +1175,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'InteractionsHive'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Performance'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Performance'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'S3OrcExampleTest'">
