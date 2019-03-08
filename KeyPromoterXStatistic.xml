@@ -1001,6 +1001,14 @@
           <Count>170</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'SuperAdder'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'SuperAdder'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'TCKEventsTest'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
