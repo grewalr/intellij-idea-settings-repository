@@ -16,4 +16,7 @@
     <option name="collapseOneLineMethods" value="false" />
     <option name="collapseSuppressWarnings" value="false" />
   </component>
+  <component name="ScalaCodeFoldingSettings">
+    <option name="collapseShellComments" value="false" />
+  </component>
 </application>
