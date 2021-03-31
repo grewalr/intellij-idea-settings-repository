@@ -1,6 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="NOTICE*" type="Markdown" />
       <mapping pattern="LICENSE*" type="Markdown" />
       <mapping pattern="README" type="Markdown" />
@@ -8,6 +10,8 @@
       <mapping pattern="beta.csv" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="graffle" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="" type="Bash" />
       <mapping ext="template" type="HOCON" />
       <mapping pattern="sparkExecute2" type="Bash" />
